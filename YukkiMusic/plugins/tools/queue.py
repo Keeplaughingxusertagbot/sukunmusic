@@ -103,10 +103,10 @@ async def ping_com(client, message: Message, _):
     )
     cap = f"""**{config.MUSIC_BOT_NAME} Player**
 
-🎥**Playing:** {title}
+🎥**Playing on sukun:** {title}
 
 🔗**Stream Type:** {typo}
-🙍‍♂️**Played By:** {user}
+🙍‍♂️**Played on sukun By:** {user}
 {send}"""
     upl = (
         queue_markup(_, DUR, "c" if cplay else "g", videoid)
@@ -283,10 +283,10 @@ async def queue_back(client, CallbackQuery: CallbackQuery, _):
     )
     cap = f"""**{config.MUSIC_BOT_NAME} Player**
 
-🎥**Playing:** {title}
+🎥**Playing on sukun:** {title}
 
 🔗**Stream Type:** {typo}
-🙍‍♂️**Played By:** {user}
+🙍‍♂️**Played on sukun By:** {user}
 {send}"""
     upl = (
         queue_markup(_, DUR, cplay, videoid)
