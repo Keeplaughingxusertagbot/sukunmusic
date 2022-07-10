@@ -48,8 +48,8 @@ class Userbot(Client):
         if config.STRING1:
             await self.one.start()
             try:
-                await self.one.join_chat("TechZBots")
-                await self.one.join_chat("TechZBots_Support")                
+                await self.one.join_chat("sukoon_kii_talash")
+                await self.one.join_chat("billufeelings")                
             except:
                 pass
             assistants.append(1)
@@ -78,8 +78,8 @@ class Userbot(Client):
         if config.STRING2:
             await self.two.start()
             try:
-                await self.two.join_chat("TechZBots")
-                await self.two.join_chat("TechZBots_Support")
+                await self.two.join_chat("sukoon_kii_talash")
+                await self.two.join_chat("billufeelings")
             except:
                 pass
             assistants.append(2)
@@ -108,8 +108,8 @@ class Userbot(Client):
         if config.STRING3:
             await self.three.start()
             try:
-                await self.three.join_chat("TechZBots")
-                await self.three.join_chat("TechZBots_Support")
+                await self.three.join_chat("sukoon_kii_talash")
+                await self.three.join_chat("billufeelings")
             except:
                 pass
             assistants.append(3)
@@ -138,8 +138,8 @@ class Userbot(Client):
         if config.STRING4:
             await self.four.start()
             try:
-                await self.four.join_chat("TechZBots")
-                await self.four.join_chat("TechZBots_Support")
+                await self.four.join_chat("sukoon_kii_talash")
+                await self.four.join_chat("billufeelings")
             except:
                 pass
             assistants.append(4)
@@ -168,8 +168,8 @@ class Userbot(Client):
         if config.STRING5:
             await self.five.start()
             try:
-                await self.five.join_chat("TechZBots")
-                await self.five.join_chat("TechZBots_Support")
+                await self.five.join_chat("sukoon_kii_talash")
+                await self.five.join_chat("billufeelings")
             except:
                 pass
             assistants.append(5)
