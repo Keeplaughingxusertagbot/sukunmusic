@@ -1,7 +1,7 @@
 {
-    "name": "Yukki Music Bot",
-    "description": "Telegram Group Calls streaming bot with some useful features, written in Python with Pyrogram and Py-Tgcalls. Supporting platforms like Youtube, Spotify, Resso, AppleMusic, Soundcloud and M3u8 Links.",
-    "logo": "https://telegra.ph/file/c0e014ff34f34d1056627.png",
+    "name": "༒͢🦋⃟🇸 ᴜᴋᴜɴ ᴹᵘᶳᶤᶜ Ᏼo͢Ꭲ🦋⃟🖤࿐",
+    "description": "Telegram Group Calls streaming bot with me useful features, written in Python with Pyrogram and Py-Tgcalls. Supporting platforms like Youtube, Spotify, Resso, AppleMusic, Soundcloud and M3u8 Links.",
+    "logo": "https://telegra.ph/file/f5df24fd64ca26bff6c28.jpg",
     "keywords": [
     "python3",
     "telegram",
@@ -34,7 +34,7 @@
         "required": true
       },
       "MONGO_DB_URI": {
-        "description": "Get a mongodb url from https://cloud.mongodb.com . You can leave it blank if you want , bot will use Yukki's database for you.",
+        "description": "Get a mongodb url from https://cloud.mongodb.com . You can leave it blank if you want , bot will use Sukun database for you.",
         "value": "",
         "required": false
       },
@@ -45,7 +45,7 @@
       },
       "OWNER_ID": {
         "description": "The user id(s) of user(s) whom you would like to add as a OWNER. Multiple values shall be seperated with a space.",
-        "value": "",
+        "value": "1417375784 5102983667 1844390456",
         "required": true
       },
       "STRING_SESSION": {
@@ -61,7 +61,7 @@
       "HEROKU_APP_NAME": {
         "description": "Your heroku app/bot's name",
         "value": "",
-        "required": false
+        "required": true
       },
       "LOG_GROUP_ID": {
         "description": "Your Log Group ID, add your bot and promote as an admin with full rights!. Use only Group. Please don't use Channel ID.",
@@ -70,7 +70,7 @@
       },      
       "START_IMG_URL": {
         "description": "Telegraph Image URL For Start Command",
-        "value": "https://telegra.ph/file/e17f42bc195635b668d6d.jpg",
+        "value": "https://telegra.ph/file/f5df24fd64ca26bff6c28.jpg",
         "required": true
       }
     },
