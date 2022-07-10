@@ -128,7 +128,7 @@ TG_VIDEO_FILESIZE_LIMIT = int(
 # Chceckout https://www.gbmb.org/mb-to-bytes  for converting mb to bytes
 
 
-# You'll need a Pyrogram String Session for these vars. Generate String from our session generator bot @YukkiStringBot
+# You'll need a Pyrogram String Session for these vars. Generate String from our session generator bot @keeplaughingstringbot
 STRING1 = getenv("STRING_SESSION", None)
 STRING2 = getenv("STRING_SESSION2", None)
 STRING3 = getenv("STRING_SESSION3", None)
