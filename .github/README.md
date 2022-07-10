@@ -1,10 +1,10 @@
 <h3>⚠️ This repo is just a clone of <a href="https://github.com/TeamYukki/YukkiMusicBot">YukkiMusicBot</a>. All credits goes to devs of <a href="https://github.com/TeamYukki/YukkiMusicBot/graphs/contributors">YukkiMusicBot</a>.</h3>
 
-<p align="center"><img src="https://telegra.ph/file/e17f42bc195635b668d6d.jpg" alt="ICON" width="80%"/></p>
+<p align="center"><img src="https://telegra.ph/file/f5df24fd64ca26bff6c28.jpg" alt="ICON" width="80%"/></p>
 
-# SiestaXMusic
+# ༒͢🦋⃟🇸 ᴜᴋᴜɴ ᴹᵘᶳᶤᶜ Ᏼo͢Ꭲ🦋⃟🖤࿐
 
-[SiestaXMusic](https://github.com/TechShreyash/SiestaXMusic) is a Powerful Telegram Music+Video Bot written in Python using Pyrogram and Py-Tgcalls by which you can stream songs, video and even live streams in your group calls via various sources.
+[༒͢🦋⃟🇸 ᴜᴋᴜɴ ᴹᵘᶳᶤᶜ Ᏼo͢Ꭲ🦋⃟🖤࿐](https://github.com/keeplaughingxusertagbot/sukunxmusic) is a Powerful Telegram Music+Video Bot written in Python using Pyrogram and Py-Tgcalls by which you can stream songs, video and even live streams in your group calls via various sources.
 
 * Youtube, Soundcloud, Apple Music, Spotify, Resso and Telegram Audios & Videos support.
 * Written from scratch, making it stable and less crashes.
@@ -16,7 +16,7 @@
 
 # 🔗 An Overview
 
-Here's a brief high-level overview of the SiestaXMusic:
+Here's a brief high-level overview of the ༒͢🦋⃟🇸 ᴜᴋᴜɴ ᴹᵘᶳᶤᶜ Ᏼo͢Ꭲ🦋⃟🖤࿐:
 
 This project is based on [Pyrogram](https://github.com/pyrogram) and [Py-Tgcalls](https://github.com/pytgcalls/pytgcalls) . Pyrogram is a modern, elegant and asynchronous MTProto API framework.
 
@@ -53,7 +53,7 @@ For more information on the technologies that power the SiestaXMusic, check out 
 
 - Generate a Pyrogram String Session via [Replit](https://replit.com/@NotReallyShikhar/Yukki-Music-String-Gen)
 
-- Generate a Pyrogram String Session via [Telegram String Generation Bot](https://t.me/YukkiStringBot)
+- Generate a Pyrogram String Session via [Telegram String Generation Bot](https://t.me/keeplaughingstringbot)
 
 
 ## 🖇 Heroku Deployment
