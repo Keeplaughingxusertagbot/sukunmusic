@@ -15,7 +15,7 @@ from YukkiMusic.utils.decorators.language import language
 async def userapprove(client, message: Message, _):
     if MONGO_DB_URI is None:
         return await message.reply_text(
-            "**Due to bot's privacy issues, You can't manage sudo users when you're using Yukki's Database.\n\n Please fill your MONGO_DB_URI in your vars to use this feature**"
+            "**Due to bot's privacy issues, You can't manage sudo users when you're using sᴜᴋᴜɴ's Database.\n\n Please fill your MONGO_DB_URI in your vars to use this feature**"
         )
     if not message.reply_to_message:
         if len(message.command) != 2:
@@ -59,7 +59,7 @@ async def userapprove(client, message: Message, _):
 async def userunapprove(client, message: Message, _):
     if MONGO_DB_URI is None:
         return await message.reply_text(
-            "**Due to bot's privacy issues, You can't manage sudo users when you're using Yukki's Database.\n\n Please fill your MONGO_DB_URI in your vars to use this feature**"
+            "**Due to bot's privacy issues, You can't manage sudo users when you're using sᴜᴋᴜɴ's Database.\n\n Please fill your MONGO_DB_URI in your vars to use this feature**"
         )
     if not message.reply_to_message:
         if len(message.command) != 2:
