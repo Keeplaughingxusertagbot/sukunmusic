@@ -21,18 +21,18 @@ START_BUTTON_GROUP = InlineKeyboardMarkup(
     [   
         [
             InlineKeyboardButton(
-                text="📚 Commands", callback_data="command_menu"
+                text="📚 ᴄᴏᴍᴍᴀɴᴅs", callback_data="command_menu"
             ),
             InlineKeyboardButton(
-                text="🔧 Settings", callback_data="settings_helper"
+                text="🔧 sᴇᴛᴛɪɴɢs", callback_data="settings_helper"
             ),                                   
         ],
         [
             InlineKeyboardButton(
-                text="📣 Updates Channel", url="https://t.me/TechZBots"
+                text="📣sᴜᴋᴏᴏɴ ᴄʜᴀɴɴᴇʟ", url="https://t.me/sukoon_kii_talash"
             ),
             InlineKeyboardButton(
-                text="💬 Support Group", url="https://t.me/TechZBots_Support"
+                text="💬ғᴇᴇʟɪɴɢs ᴄʜᴀɴɴᴇʟ❤️ ", url="https://t.me/TechZBots_Support"
             ),                       
         ],        
     ]
