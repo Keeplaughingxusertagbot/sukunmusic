@@ -7,7 +7,7 @@
 #
 # All rights reserved.
 
-HELP_1 = """✅**<u>Admin Commands:</u>**
+HELP_1 = """✅**<u>Admin Commands for 🦋⃟🇸 ᴜᴋᴜɴ ᴹᵘᶳᶤᶜ Ᏼo͢Ꭲ🦋⃟🖤࿐:</u>**
 
 **c** stands for channel play.
 
@@ -39,9 +39,9 @@ Auth Users can use admin commands without admin rights in your chat.
 /authusers - Check AUTH LIST of the group."""
 
 
-HELP_2 = """✅<u>**Play Commands:**</u>
+HELP_2 = """✅<u>**Play Commands for ༒͢🦋⃟🇸 ᴜᴋᴜɴ ᴹᵘᶳᶤᶜ Ᏼo͢Ꭲ🦋⃟🖤࿐:**</u>
 
-Available Commands = play , vplay , cplay
+Available Commands = play , vplay , cplay , sukun
 
 ForcePlay Commands = playforce , vplayforce , cplayforce
 
@@ -62,11 +62,11 @@ ForcePlay Commands = playforce , vplayforce , cplayforce
 /play  - Start playing Your Saved Playlist from Servers."""
 
 
-HELP_3 = """✅<u>**Bot Commands:**</u>
+HELP_3 = """✅<u>**Bot Commands for ༒͢🦋⃟🇸 ᴜᴋᴜɴ ᴹᵘᶳᶤᶜ Ᏼo͢Ꭲ🦋⃟🖤࿐:**</u>
 
 /stats - Get Top 10 Tracks Global Stats, Top 10 Users of bot, Top 10 Chats on bot, Top 10 Played in a chat etc etc.
 
-/sudolist - Check Sudo Users of Yukki Music Bot
+/sudolist - Check Sudo Users of Sukun Music Bot  
 
 /lyrics [Music Name] - Searches Lyrics for the particular Music on web.
 
@@ -170,6 +170,6 @@ HELP_5 = """🔰**<u>ADD & REMOVE SUDO USERS :</u>**
 **-assistant** : This will broadcast your message from assistant account of your bot.
 **-nobot** : This will force your bot to not broadcast message
 
-**Example:** `/broadcast -user -assistant -pin Hello Testing`
+**Example:** `/broadcast -user -assistant -pin Hello i am sukun music bot`
 
 """
