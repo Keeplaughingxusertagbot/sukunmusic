@@ -109,7 +109,11 @@ For more information on the technologies that power the SiestaXMusic, check out 
 <p align="center"><a href="https://github.com/new/import"><img src="https://img.shields.io/badge/Workflow%20Deploy-black?style=for-the-badge&logo=github" width="200""/></a>
 
 
+## 🖇 Circleci deployment 
+    
+<h4>Click the button to redirect on circleci Note: First fill your vars in config.py then connect with your GitHub in circleci then deploy!</h4>
 
+<p align="center"><a href="https://circleci.com/"><img src="https://img.shields.io/badge/CircleCi%20Deploy-red?style=for-the-badge&logo=circleci" width="200""/></a>
 
 ## 🖇 VPS Deployment
 
